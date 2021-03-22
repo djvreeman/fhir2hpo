@@ -61,6 +61,9 @@ public class CodeContainer {
 			new SimpleEntry<>("normal", HpoEncodedValue.NORMAL),
 			new SimpleEntry<>("negative", HpoEncodedValue.NORMAL),
 			new SimpleEntry<>("positive", HpoEncodedValue.HIGH),
+		// DV Entries
+			new SimpleEntry<>("yes", HpoEncodedValue.HIGH),
+     		new SimpleEntry<>("no", HpoEncodedValue.LOW),
 			new SimpleEntry<>("reactive", HpoEncodedValue.HIGH))			
 			.collect(Collectors.toMap((e) -> e.getKey(), (e) -> e.getValue())));
 	
