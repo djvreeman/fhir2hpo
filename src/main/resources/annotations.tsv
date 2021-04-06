@@ -7401,3 +7401,5 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 708-8	Qn	FHIR	H	HP:0032372	false	2019-07-02T16:58:27	HPO:nvasilevsky	NA	NA	0.1	true	NA
 63981-5	Ord	FHIR	POS	HP:0000217	false	2021-03-19T18:52:00	RTI:dvreeman	NA	NA	0.1	true	NA
 63981-5	Ord	FHIR	NEG	HP:0000217	true	2021-03-19T18:52:00	RTI:dvreeman	NA	NA	0.1	true	NA
+93001-6	Qn	FHIR	H	HP:0001251	false	2021-03-19T18:52:00	RTI:dvreeman	NA	NA	0.1	true	NA
+93001-6	Qn	FHIR	L	HP:0001251	true	2021-03-19T18:52:00	RTI:dvreeman	NA	NA	0.1	true	NA
